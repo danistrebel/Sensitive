@@ -1,1 +1,0 @@
-# Android Sensor API Experiment

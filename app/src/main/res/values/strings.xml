@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Sensitive</string>
-    <string name="lux_label">Lux Value</string>
-    <string name="title_activity_main_menu">MainMenuActivity</string>
-    <string name="all_sensors">Device Sensors</string>
-    <string name="distance_experiment">Distance Experiment</string>
-</resources>
